@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StahovskiySA_02_04</string>
+    <string name="registration">Регистрация</string>
+    <string name="insertlog">Введите ваш логин и пароль</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="whod">Войти</string>
+    <string name="kredcalc">Кредитный калькулятор</string>
+    <string name="srok">Введите срок кредита</string>
+    <string name="rach">Расчитать</string>
+    <string name="ep">Ежемесячный платёж</string>
+    <string name="summ">Сумма кредита</string>
+
+
+</resources>
